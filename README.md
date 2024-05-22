@@ -1,7 +1,10 @@
 # Script to Plant interactions shift the relationship of richness to mean range-size relationship
 This repository includes the script for "Plant interactions shift the relationship of richness to mean range size from positive to negative at the Glacial–Holocene transition". 
+
 All the scripts for data analysis, as well as for the generation of figures and tables are shown here. The main files included are as follows:
+
 0_resampling
+
 1_calculation: Based on the resampling result, this script calculates plant richness, mean range-size, and heterogeneity. The output includes the results and Supplementary Figure 1.
 2_cushion_tree: Cushion plant taxa and tree plant taxa abundance change over time based on the resampling result.
 3_merge_plot: Based on the resampling, plant richness to mean range-size relationship was calculated with the 5,000-year running time window, the richness, mean range-size, heterogeneity,
